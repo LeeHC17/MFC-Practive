@@ -1,0 +1,2 @@
+D:\현장 실습\2주차\MFC-Practive\ButtonControl\Debug\ButtonControl.exe
+D:\현장 실습\2주차\MFC-Practive\ButtonControl\Debug\ButtonControl.pdb
