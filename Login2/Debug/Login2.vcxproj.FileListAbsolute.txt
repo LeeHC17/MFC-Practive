@@ -1,0 +1,2 @@
+D:\현장 실습\2주차\MFC-Practive\Login2\Debug\Login2.exe
+D:\현장 실습\2주차\MFC-Practive\Login2\Debug\Login2.pdb
