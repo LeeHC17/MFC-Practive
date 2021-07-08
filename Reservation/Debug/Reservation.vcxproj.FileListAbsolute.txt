@@ -1,0 +1,2 @@
+D:\현장 실습\3주차\MFC-Practive\Reservation\Debug\Reservation.exe
+D:\현장 실습\3주차\MFC-Practive\Reservation\Debug\Reservation.pdb
